@@ -21,6 +21,9 @@ public class Demo
 	}public void m6()
 	{
 		System.out.println("m6---method");
+	}public void m7()
+	{
+		System.out.println("m7---method");
 	}
     public static void main(String[] args) 
      {
